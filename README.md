@@ -1,2 +1,10 @@
-# pybeginner_training100
-Ploblems collection of Python Beginner.
+# Python基礎100問です。
+個人的にPythonの学習メモとして、実行したコードを集めました。
+ソースコードは、sourceフォルダ以下に配置しています。
+
+## この問題の対象者
+* Pythonをやったことがない人
+* プログラミングしたことないけどPython勉強してみたい人
+## Python基礎100問の内容
+Python基礎100問は、以下の通りです。
+
