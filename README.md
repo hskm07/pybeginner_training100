@@ -149,58 +149,60 @@ Python基礎100問は、以下の通りです。
 | 81 | 独自例外を実装する | 初級 |　training03.ipnb |
 | 82 | トレースバックを間引く | 初級 |　training03.ipnb |
 | 83 | まとめ: パスカルのトライアングルを作ろう！ | 初級 |　training03.ipnb |
-| 84 | ファイルを操作する | 初級 | training04.ipnb |
-| 85 | withとベンチマークツールの改良 | 中級 |　training03.ipnb |
-| 86 | CSVを読み込む | 初級 | training04.ipnb |
-| 87 | CSVを編集して書き込む方法 | 初級 | training04.ipnb |
-| 88 | サイズが大きいCSVファイルを読み取るコツ | 初級 | training04.ipnb |
-| 89 | Excelデータを読み込んでみよう | 初級 | training04.ipnb |
-| 90 | カラムを抽出してみよう | 初級 | training04.ipnb |
-| 91 | 全シートのデータを読み込んでみよう | 初級 | training04.ipnb |
-| 92 | データの値を計算で修正してみよう | 初級 | training04.ipnb |
-| 93 | 必要なカラムだけに絞り込もう | 初級 | training04.ipnb |
-| 94 | 縦持ちのデータを作成しよう | 初級 | training04.ipnb |
-| 95 | 縦持ちのデータを整形しよう | 初級 | training04.ipnb |
-| 96 | 発電実績データを加工しよう | 初級 | training04.ipnb |
-| 97 | 可視化用データを仕上げよう | 初級 | training04.ipnb |
-| 98 | データの分布をヒストグラムで可視化しよう | 初級 | training04.ipnb |
-| 99 | データの分布を箱ひげ図で可視化しよう | 初級 | training04.ipnb |
-| 100 | 最近の発電量を可視化してみよう | 初級 | training04.ipnb |
-| 101 | 電力の時系列変化を可視化してみよう | 初級 | training04.ipnb |
-| 102 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
+| 84 | ファイルを読み込む | 初級 | training04.ipnb |
+| 85 | ファイルへ書き込む | 初級 | training04.ipnb |
+| 86 | ファイルをwith構文を使って操作する | 初級 | training04.ipnb |
+| 87 | with構文の理解とベンチマークツールの改良 | 中級 |　training03.ipnb |
+| 88 | CSVを読み込む | 初級 | training04.ipnb |
+| 89 | CSVを編集して書き込む方法 | 初級 | training04.ipnb |
+| 90 | サイズが大きいCSVファイルを読み取るコツ | 初級 | training04.ipnb |
+| 91 | Excelデータを読み込んでみよう | 初級 | training04.ipnb |
+| 92 | カラムを抽出してみよう | 初級 | training04.ipnb |
+| 93 | 全シートのデータを読み込んでみよう | 初級 | training04.ipnb |
+| 94 | データの値を計算で修正してみよう | 初級 | training04.ipnb |
+| 95 | 必要なカラムだけに絞り込もう | 初級 | training04.ipnb |
+| 96 | 縦持ちのデータを作成しよう | 初級 | training04.ipnb |
+| 97 | 縦持ちのデータを整形しよう | 初級 | training04.ipnb |
+| 98 | 発電実績データを加工しよう | 初級 | training04.ipnb |
+| 99 | 可視化用データを仕上げよう | 初級 | training04.ipnb |
+| 99 | データの分布をヒストグラムで可視化しよう | 初級 | training04.ipnb |
+| 100 | データの分布を箱ひげ図で可視化しよう | 初級 | training04.ipnb |
+| 101 | 最近の発電量を可視化してみよう | 初級 | training04.ipnb |
+| 102 | 電力の時系列変化を可視化してみよう | 初級 | training04.ipnb |
 | 103 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
-| 104 | 電力の多い都道府県を比較してみよう | 初級 | training04.ipnb |
-| 105 | 都道府県、年月別の電力を可視化してみよう | 初級 | training04.ipnb |
-| 106 | データを整形してExcel形式に出力してみよう | 初級 | training04.ipnb |
-| 107 | シート別にExcelデータに出力してみよう | 初級 | training04.ipnb |
-| 108 | 時系列データの加工を読み込んでみよう | 初級 | training05.ipnb |
-| 109 | 日付の範囲を確認しよう | 初級 | training05.ipnb |
-| 110 | 日毎のデータ件数を確認しよう | 初級 | training05.ipnb |
-| 111 | 日付から曜日を算出しよう | 初級 | training05.ipnb |
-| 112 | 特定範囲のデータに絞り込もう | 初級 | training05.ipnb |
-| 113 | 秒単位のデータを作成しよう | 初級 | training05.ipnb |
-| 114 | 秒単位のデータを整形しよう | 初級 | training05.ipnb |
-| 115 | 秒単位の欠損データを処理しよう | 初級 | training05.ipnb |
-| 116 | 通った人数を可視化しよう | 初級 | training05.ipnb |
-| 117 | 移動平均を計算して可視化しよう | 初級 | training05.ipnb |
-| 118 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
-| 119 | モジュールとパッケージの違い | 初級 | training06.ipnb |
-| 120 | __name__=__main__とは | 初級 | training06.ipnb |
-| 121 | 利用シーン別：おすすめモジュールとサードパーティパッケージ | 初級 | training06.ipnb |
-| 122 |  | 初級 | training06.ipnb |
+| 104 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
+| 105 | 電力の多い都道府県を比較してみよう | 初級 | training04.ipnb |
+| 106 | 都道府県、年月別の電力を可視化してみよう | 初級 | training04.ipnb |
+| 107 | データを整形してExcel形式に出力してみよう | 初級 | training04.ipnb |
+| 108 | シート別にExcelデータに出力してみよう | 初級 | training04.ipnb |
+| 109 | 時系列データの加工を読み込んでみよう | 初級 | training05.ipnb |
+| 110 | 日付の範囲を確認しよう | 初級 | training05.ipnb |
+| 111 | 日毎のデータ件数を確認しよう | 初級 | training05.ipnb |
+| 112 | 日付から曜日を算出しよう | 初級 | training05.ipnb |
+| 113 | 特定範囲のデータに絞り込もう | 初級 | training05.ipnb |
+| 114 | 秒単位のデータを作成しよう | 初級 | training05.ipnb |
+| 115 | 秒単位のデータを整形しよう | 初級 | training05.ipnb |
+| 116 | 秒単位の欠損データを処理しよう | 初級 | training05.ipnb |
+| 117 | 通った人数を可視化しよう | 初級 | training05.ipnb |
+| 118 | 移動平均を計算して可視化しよう | 初級 | training05.ipnb |
+| 119 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
+| 120 | モジュールとパッケージの違い | 初級 | training06.ipnb |
+| 121 | __name__=__main__とは | 初級 | training06.ipnb |
+| 122 | 利用シーン別：おすすめモジュールとサードパーティパッケージ | 初級 | training06.ipnb |
 | 123 |  | 初級 | training06.ipnb |
-| 124 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
-| 125 | PDFデータを作成してみよう | 初級 | training06.ipnb |
-| 126 |  | 初級 | training06.ipnb |
+| 124 |  | 初級 | training06.ipnb |
+| 125 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
+| 126 | PDFデータを作成してみよう | 初級 | training06.ipnb |
 | 127 |  | 初級 | training06.ipnb |
-| 128 | pytestでテストコードを書く | 初級 | training07.ipnb |
-| 129 | Unittestでテストコードを書く | 初級 | training07.ipnb |
-| 130 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
-| 131 | ドキュメントは残す | 初級 | training07.ipnb |
-| 132 | Markdownのすすめ | 初級 | training07.ipnb |
-| 133 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
-| 134 | 型安全: typingモジュール | 初級 | training07.ipnb |
-| 135 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
+| 128 |  | 初級 | training06.ipnb |
+| 129 | pytestでテストコードを書く | 初級 | training07.ipnb |
+| 130 | Unittestでテストコードを書く | 初級 | training07.ipnb |
+| 131 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
+| 132 | ドキュメントは残す | 初級 | training07.ipnb |
+| 133 | Markdownのすすめ | 初級 | training07.ipnb |
+| 134 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
+| 135 | 型安全: typingモジュール | 初級 | training07.ipnb |
+| 136 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
 
 ## 参考文献
 
