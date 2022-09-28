@@ -75,14 +75,14 @@ Python基礎100問は、以下の通りです。
 | 7  | 整数とキャッシュ | 中級 | training01.ipnb |
 | 8  | 文字列と演算 | 初歩 | training01.ipnb |  
 | 9  | 繰り返し文字 | 初歩 | training01.ipnb |
-| 10  | 文字列の抜き出し | 初歩 | training01.ipnb |  
-| 11  | f-strings | 初歩 | training01.ipnb |
+| 10 | 文字列の抜き出し | 初歩 | training01.ipnb |  
+| 11 | f-strings | 初歩 | training01.ipnb |
 | 12 | f-stringをシュミレートする | 中級 | training01.ipnb |  
-| 13  | 条件文 if文の使い方 | 初歩 | training01.ipnb |
-| 14  | if ~ elif ~ elseの使い方について | 初歩 | training01.ipnb |  
-| 15  | 値と比較演算子 | 初歩 | training01.ipnb |
-| 16  | 値と比較演算子 | 初歩 | training01.ipnb |
-| 17  | 三項演算子を使う | 初級 | training01.ipnb |
+| 13 | 条件文 if文の使い方 | 初歩 | training01.ipnb |
+| 14 | if ~ elif ~ elseの使い方について | 初歩 | training01.ipnb |  
+| 15 | 値と比較演算子 | 初歩 | training01.ipnb |
+| 16 | 値と比較演算子 | 初歩 | training01.ipnb |
+| 17 | 三項演算子を使う | 初級 | training01.ipnb |
 | 18 | if文の練習問題 | 初歩 | training01.ipnb |
 | 19 | for文の基礎：処理を繰り返す | 初歩 | training01.ipnb |
 | 20 | for文のネスト | 初歩 | training01.ipnb |
@@ -188,21 +188,35 @@ Python基礎100問は、以下の通りです。
 | 119 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
 | 120 | モジュールとパッケージの違い | 初級 | training06.ipnb |
 | 121 | __name__=__main__とは | 初級 | training06.ipnb |
-| 122 | 利用シーン別：おすすめモジュールとサードパーティパッケージ | 初級 | training06.ipnb |
-| 123 |  | 初級 | training06.ipnb |
-| 124 |  | 初級 | training06.ipnb |
+| 122 | 簡単な自作パッケージ | 初級 | training06.ipnb |
+| 123 | Wordを読み込んでみよう | 初級 | training06.ipnb |
+| 124 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
 | 125 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
 | 126 | PDFデータを作成してみよう | 初級 | training06.ipnb |
-| 127 |  | 初級 | training06.ipnb |
-| 128 |  | 初級 | training06.ipnb |
-| 129 | pytestでテストコードを書く | 初級 | training07.ipnb |
-| 130 | Unittestでテストコードを書く | 初級 | training07.ipnb |
-| 131 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
-| 132 | ドキュメントは残す | 初級 | training07.ipnb |
-| 133 | Markdownのすすめ | 初級 | training07.ipnb |
-| 134 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
-| 135 | 型安全: typingモジュール | 初級 | training07.ipnb |
-| 136 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
+| 127 | 画像データを読み込んでみよう | 初級 | training06.ipnb |
+| 128 | 画像データを処理してみよう | 初級 | training06.ipnb |
+| 129 | Excelからpythonのコードを自動生成する:準備 | 初級 | training07.ipnb |
+| 130 | Excelからpythonのコードを自動生成する:操作 | 初級 | training07.ipnb |
+| 131 | Excelから自動生成したコードを処理してみる | 初級 | training07.ipnb |
+| 132 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training07.ipnb |
+| 133 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training07.ipnb |
+| 134 | pytestでテストコードを書く1 | 初級 | training07.ipnb |
+| 135 | pytestでテストコードを書く2 | 初級 | training07.ipnb |
+| 136 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
+| 137 | ドキュメントは残す | 初級 | training07.ipnb |
+| 138 | Markdownのすすめ | 初級 | training07.ipnb |
+| 139 | Markdownのすすめ | 初級 | training07.ipnb |
+| 140 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
+| 141 | 型安全: typingモジュール | 初級 | training07.ipnb |
+| 142 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
+| 143 | ファイルパスを扱う | 初級 | training07.ipnb |
+| 144 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
+| 145 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
+| 146 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
+| 147 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
+
+
+
 
 ## 参考文献
 
