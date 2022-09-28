@@ -1,0 +1,6 @@
+jupyter
+jupyter-contrib-nbextensions
+pytest
+pytest-cov
+mypy
+flake8
