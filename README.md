@@ -171,55 +171,55 @@ Python基礎100問は、以下の通りです。
 | 97 | 縦持ちのデータを整形しよう | 初級 | training04.ipnb |
 | 98 | 発電実績データを加工しよう | 初級 | training04.ipnb |
 | 99 | 可視化用データを仕上げよう | 初級 | training04.ipnb |
-| 99 | データの分布をヒストグラムで可視化しよう | 初級 | training04.ipnb |
-| 100 | データの分布を箱ひげ図で可視化しよう | 初級 | training04.ipnb |
-| 101 | 最近の発電量を可視化してみよう | 初級 | training04.ipnb |
-| 102 | 電力の時系列変化を可視化してみよう | 初級 | training04.ipnb |
-| 103 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
+| 100 | データの分布をヒストグラムで可視化しよう | 初級 | training04.ipnb |
+| 101 | データの分布を箱ひげ図で可視化しよう | 初級 | training04.ipnb |
+| 102 | 最近の発電量を可視化してみよう | 初級 | training04.ipnb |
+| 103 | 電力の時系列変化を可視化してみよう | 初級 | training04.ipnb |
 | 104 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
-| 105 | 電力の多い都道府県を比較してみよう | 初級 | training04.ipnb |
-| 106 | 都道府県、年月別の電力を可視化してみよう | 初級 | training04.ipnb |
-| 107 | データを整形してExcel形式に出力してみよう | 初級 | training04.ipnb |
-| 108 | シート別にExcelデータに出力してみよう | 初級 | training04.ipnb |
-| 109 | 時系列データの加工を読み込んでみよう | 初級 | training05.ipnb |
-| 110 | 日付の範囲を確認しよう | 初級 | training05.ipnb |
-| 111 | 日毎のデータ件数を確認しよう | 初級 | training05.ipnb |
-| 112 | 日付から曜日を算出しよう | 初級 | training05.ipnb |
-| 113 | 特定範囲のデータに絞り込もう | 初級 | training05.ipnb |
-| 114 | 秒単位のデータを作成しよう | 初級 | training05.ipnb |
-| 115 | 秒単位のデータを整形しよう | 初級 | training05.ipnb |
-| 116 | 秒単位の欠損データを処理しよう | 初級 | training05.ipnb |
-| 117 | 通った人数を可視化しよう | 初級 | training05.ipnb |
-| 118 | 移動平均を計算して可視化しよう | 初級 | training05.ipnb |
-| 119 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
-| 120 | モジュールとパッケージの違い | 初級 | training06.ipnb |
-| 121 | __name__=__main__とは | 初級 | training06.ipnb |
-| 122 | 簡単な自作パッケージ | 初級 | training06.ipnb |
-| 123 | Wordを読み込んでみよう | 初級 | training06.ipnb |
-| 124 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
-| 125 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
-| 126 | PDFデータを作成してみよう | 初級 | training06.ipnb |
-| 127 | 画像データを読み込んでみよう | 初級 | training06.ipnb |
-| 128 | 画像データを処理してみよう | 初級 | training06.ipnb |
-| 129 | Excelからpythonのコードを自動生成する:準備 | 初級 | training07.ipnb |
-| 130 | Excelからpythonのコードを自動生成する:操作 | 初級 | training07.ipnb |
-| 131 | Excelから自動生成したコードを処理してみる | 初級 | training07.ipnb |
-| 132 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training07.ipnb |
-| 133 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training07.ipnb |
-| 134 | pytestでテストコードを書く1 | 初級 | training07.ipnb |
-| 135 | pytestでテストコードを書く2 | 初級 | training07.ipnb |
-| 136 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
-| 137 | ドキュメントは残す | 初級 | training07.ipnb |
-| 138 | Markdownのすすめ | 初級 | training07.ipnb |
+| 105 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
+| 106 | 電力の多い都道府県を比較してみよう | 初級 | training04.ipnb |
+| 107 | 都道府県、年月別の電力を可視化してみよう | 初級 | training04.ipnb |
+| 108 | データを整形してExcel形式に出力してみよう | 初級 | training04.ipnb |
+| 109 | シート別にExcelデータに出力してみよう | 初級 | training04.ipnb |
+| 110 | 時系列データの加工を読み込んでみよう | 初級 | training05.ipnb |
+| 111 | 日付の範囲を確認しよう | 初級 | training05.ipnb |
+| 112 | 日毎のデータ件数を確認しよう | 初級 | training05.ipnb |
+| 113 | 日付から曜日を算出しよう | 初級 | training05.ipnb |
+| 114 | 特定範囲のデータに絞り込もう | 初級 | training05.ipnb |
+| 115 | 秒単位のデータを作成しよう | 初級 | training05.ipnb |
+| 116 | 秒単位のデータを整形しよう | 初級 | training05.ipnb |
+| 117 | 秒単位の欠損データを処理しよう | 初級 | training05.ipnb |
+| 118 | 通った人数を可視化しよう | 初級 | training05.ipnb |
+| 119 | 移動平均を計算して可視化しよう | 初級 | training05.ipnb |
+| 120 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
+| 121 | モジュールとパッケージの違い | 初級 | training06.ipnb |
+| 122 | __name__=__main__とは | 初級 | training06.ipnb |
+| 123 | 簡単な自作パッケージ | 初級 | training06.ipnb |
+| 124 | Wordを読み込んでみよう | 初級 | training06.ipnb |
+| 125 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
+| 126 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
+| 127 | PDFデータを作成してみよう | 初級 | training06.ipnb |
+| 128 | 画像データを読み込んでみよう | 初級 | training06.ipnb |
+| 129 | 画像データを処理してみよう | 初級 | training06.ipnb |
+| 130 | Excelからpythonのコードを自動生成する:準備 | 初級 | training07.ipnb |
+| 131 | Excelからpythonのコードを自動生成する:操作 | 初級 | training07.ipnb |
+| 132 | Excelから自動生成したコードを処理してみる | 初級 | training07.ipnb |
+| 133 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training07.ipnb |
+| 134 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training07.ipnb |
+| 135 | pytestでテストコードを書く1 | 初級 | training07.ipnb |
+| 136 | pytestでテストコードを書く2 | 初級 | training07.ipnb |
+| 137 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
+| 138 | ドキュメントは残す | 初級 | training07.ipnb |
 | 139 | Markdownのすすめ | 初級 | training07.ipnb |
-| 140 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
-| 141 | 型安全: typingモジュール | 初級 | training07.ipnb |
-| 142 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
-| 143 | ファイルパスを扱う | 初級 | training07.ipnb |
-| 144 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
-| 145 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
-| 146 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
-| 147 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
+| 140 | Markdownのすすめ | 初級 | training07.ipnb |
+| 141 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
+| 142 | 型安全: typingモジュール | 初級 | training07.ipnb |
+| 143 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
+| 144 | ファイルパスを扱う | 初級 | training07.ipnb |
+| 145 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
+| 146 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
+| 147 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
+| 148 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
 
 
 
