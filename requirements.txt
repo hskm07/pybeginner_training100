@@ -4,3 +4,8 @@ pytest
 pytest-cov
 mypy
 flake8
+pandas
+openpyxl
+matplotlib
+japanize-matplotlib
+seaborn
