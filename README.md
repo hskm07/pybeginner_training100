@@ -192,9 +192,9 @@ Python基礎100問は、以下の通りです。
 | 118 | 通った人数を可視化しよう | 初級 | training05.ipnb |
 | 119 | 移動平均を計算して可視化しよう | 初級 | training05.ipnb |
 | 120 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
-| 121 | モジュールとパッケージの違い | 初級 | training06.ipnb |
-| 122 | \_\_name\_\_= \_\_main\_\_ とは | 初級 | training06.ipnb |
-| 123 | 簡単な自作パッケージ | 初級 | training06.ipnb |
+| 121 | モジュールとパッケージとライブラリの違い | 初級 | training06.ipnb |
+| 122 | \_\_init\_\_.pyは無暗に省略してはダメ | 初級 | training06.ipnb |
+| 123 | \_\_name\_\_= \_\_main\_\_ とは | 初級 | training06.ipnb |
 | 124 | Wordを読み込んでみよう | 初級 | training06.ipnb |
 | 125 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
 | 126 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
