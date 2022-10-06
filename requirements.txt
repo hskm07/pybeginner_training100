@@ -9,3 +9,12 @@ openpyxl
 matplotlib
 japanize-matplotlib
 seaborn
+PyPDF2
+pdfminer.six
+python-docx
+pydantic
+Pillow
+tox
+pre-commit
+pendulum
+streamlit

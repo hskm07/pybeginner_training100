@@ -201,11 +201,11 @@ Python基礎100問は、以下の通りです。
 | 127 | PDFデータを作成してみよう | 初級 | training06.ipnb |
 | 128 | 画像データを読み込んでみよう | 初級 | training06.ipnb |
 | 129 | 画像データを処理してみよう | 初級 | training06.ipnb |
-| 130 | Excelからpythonのコードを自動生成する:準備 | 初級 | training07.ipnb |
-| 131 | Excelからpythonのコードを自動生成する:操作 | 初級 | training07.ipnb |
-| 132 | Excelから自動生成したコードを処理してみる | 初級 | training07.ipnb |
-| 133 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training07.ipnb |
-| 134 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training07.ipnb |
+| 130 | Excelからpythonのコードを自動生成する:準備 | 初級 | training06.ipnb |
+| 131 | Excelからpythonのコードを自動生成する:操作 | 初級 | training06.ipnb |
+| 132 | Excelから自動生成したコードを処理してみる | 初級 | training06.ipnb |
+| 133 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training06.ipnb |
+| 134 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training06.ipnb |
 | 135 | pytestでテストコードを書く1 | 初級 | training07.ipnb |
 | 136 | pytestでテストコードを書く2 | 初級 | training07.ipnb |
 | 137 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
@@ -220,7 +220,8 @@ Python基礎100問は、以下の通りです。
 | 146 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
 | 147 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
 | 148 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
-
+| 124 | Wordを読み込んでみよう | 初級 | training06.ipnb |
+| 125 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
 
 
 
