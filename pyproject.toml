@@ -25,6 +25,8 @@ pendulum = "^2.1.2"
 pipdeptree = "^2.3.1"
 pip-licenses = "^3.5.4"
 jupyterlab = "^3.4.8"
+nbconvert = "^7.2.1"
+pyppeteer = "^1.0.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.1.3"

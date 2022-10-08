@@ -4,6 +4,11 @@
 
 * 初学者のが、Pythonの基礎習得を短時間ででき、かつ自走できるまでの内容を習得する
 
+## 研修資料サンプル
+
+![training_sample.png](training_sample.png)
+
+
 ## ゼロから始めるPython講座との切り分けについて
 
 ### ゼロから始めるPython講座
