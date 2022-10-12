@@ -198,7 +198,7 @@ Python基礎100問は、以下の通りです。
 | 124 | Wordを読み込んでみよう | 初級 | training06.ipnb |
 | 125 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
 | 126 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
-| 127 | PDFデータを作成してみよう | 初級 | training06.ipnb |
+| 127 | PDFデータを結合・分割してみよう | 初級 | training06.ipnb |
 | 128 | 画像データを読み込んでみよう | 初級 | training06.ipnb |
 | 129 | 画像データを処理してみよう | 初級 | training06.ipnb |
 | 130 | Excelからpythonのコードを自動生成する:準備 | 初級 | training06.ipnb |
