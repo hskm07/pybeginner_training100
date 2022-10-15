@@ -128,7 +128,7 @@ Python基礎100問は、以下の通りです。
 | 54 | そのデータは本当に辞書で保持しないとダメ? | 初級 | training02.ipnb |
 | 55 | 辞書に存在しないキーを一度に追加する　| 中級 | training02.ipnb |  
 | 56 | ユーザー定義関数を使いたい | 初級 | training03.ipnb |
-| 57 | 腕試し問題 ~シーザー暗号~ | 初級 | training03.ipnb |
+| 57 | 腕試し問題 シーザー暗号 | 初級 | training03.ipnb |
 | 58 | ユーザー定義関数と位置引数とキーワード引数 | 初級 | training03.ipnb |
 | 59 | ユーザー定義関数と可変長引数 | 初級 | training03.ipnb |
 | 60 | デフオルト引数 | 初級 | training03.ipnb | 
@@ -207,12 +207,12 @@ Python基礎100問は、以下の通りです。
 | 133 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training06.ipnb |
 | 134 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training06.ipnb |
 | 135 | PEP8：コーディング規約を知る | 初級 | training07.ipnb |
-| 136 | PEP8のlinterを導入する ~flake8~ | 初級 | training07.ipnb |
-| 137 | PEP8のformaterを導入する ~black~ | 初級 | training07.ipnb |
+| 136 | PEP8のlinterを導入する flake8 | 初級 | training07.ipnb |
+| 137 | PEP8のformaterを導入する black | 初級 | training07.ipnb |
 | 138 | pipの使い方 | 初級 | training07.ipnb |
 | 139 | pipのアップデート | 初級 | training07.ipnb |
 | 140 | pipでパッケージのバージョンとライセンスを取得する | 初級 | training07.ipnb |
-| 141 | 開発環境構築のキ ~仮想環境は必ず作る~ | 初級 | training07.ipnb |
+| 141 | 開発環境構築のキ 仮想環境は必ず作る | 初級 | training07.ipnb |
 | 137 |  | 初級 | training07.ipnb |
 | 136 | pytestでテストコードを書く1 | 初級 | training07.ipnb |
 | 137 | pytestでテストコードを書く2 | 初級 | training07.ipnb |
