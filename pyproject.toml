@@ -29,6 +29,7 @@ nbconvert = "^7.2.1"
 pyppeteer = "^1.0.2"
 nbgitpuller = "^1.1.0"
 black = "^22.10.0"
+Flask = "^2.2.2"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^7.1.3"
