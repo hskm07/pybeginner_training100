@@ -105,7 +105,7 @@ Python基礎100問は、以下の通りです。
 | 31 | 重複を削除する その1 | 初級 | training02.ipnb |
 | 32 | 重複を削除する その2 | 初級 | training02.ipnb |
 | 33 | リスト内包表記を使いこなす | 初級 | training02.ipnb |
-| 34 | Pythonらしさは尊重するべき ~他言語のベストプラクティスは通用しない時もある~ | 初級 | training02.ipnb |
+| 34 | Pythonらしさは尊重するべき 他言語のベストプラクティスは通用しない時もある | 初級 | training02.ipnb |
 | 35 | FizzBuzz問題を１行で実行する | 初級 | training02.ipnb |
 | 36 | リストとループカウンタを同時に返す | 初級 | training02.ipnb |
 | 37 | 複数のリストを同時にループする | 初級 | training02.ipnb |
@@ -210,12 +210,12 @@ Python基礎100問は、以下の通りです。
 | 136 | PEP8のlinterを導入する flake8 | 初級 | training07.ipnb |
 | 137 | PEP8のformaterを導入する black | 初級 | training07.ipnb |
 | 138 | pipの使い方 | 初級 | training07.ipnb |
-| 139 | pipのアップデート | 初級 | training07.ipnb |
-| 140 | pipでパッケージのバージョンとライセンスを取得する | 初級 | training07.ipnb |
-| 141 | 開発環境構築のキ 仮想環境は必ず作る | 初級 | training07.ipnb |
-| 137 |  | 初級 | training07.ipnb |
-| 136 | pytestでテストコードを書く1 | 初級 | training07.ipnb |
-| 137 | pytestでテストコードを書く2 | 初級 | training07.ipnb |
+| 139 | 欲しいパッケージ検索と良し悪しの判断 | 初級 | training07.ipnb |
+| 140 | pipが失敗する原因はプロキシ? | 初級 | training07.ipnb |
+| 141 | Pythonの基礎のキ 仮想環境は必ず作る | 初級 | training07.ipnb |
+| 142 | vnevを使って仮想環境を作成する | 初級 | training07.ipnb |
+| 143 | pytestでテストコードを書くなぜテストが必要か | 初級 | training07.ipnb |
+| 144 | pytestでテストコードを書 | 初級 | training07.ipnb |
 | 138 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
 | 139 | ドキュメントは残す | 初級 | training07.ipnb |
 | 140 | Markdownのすすめ | 初級 | training07.ipnb |
@@ -228,9 +228,6 @@ Python基礎100問は、以下の通りです。
 | 147 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
 | 148 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
 | 149 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
-| 125 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
-
-
 
 ## 参考文献
 
@@ -260,6 +257,10 @@ Python基礎100問は、以下の通りです。
 * 自走プログラマー ～Pythonの先輩が教えるプロジェクト開発のベストプラクティス120 清水川貴之 技術評論者 2020/2/27
 * A Philosophy of Software Design, 2nd Edition (English Edition) John K. Ousterhout Software Design, Testing & Engineering 2021/7/25
 * Wantedly Techbook Wantedly執筆部　2022/09/10
+* ソフトウェア品質を高める開発者テスト 改訂版　高橋寿一 翔泳社 2022/6/15
+* リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック Dustin Boswell オライリージャパン 2012/6/23
+* テスト駆動Python 第2版 Brian Okken 翔泳社 2022/8/30
+* ハイパフォーマンスPython Micha Gorelick オライリージャパン 2015/11/20
 
 ### Web
 
