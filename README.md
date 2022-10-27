@@ -215,8 +215,8 @@ Python基礎100問は、以下の通りです。
 | 141 | Pythonの基礎のキ 仮想環境は必ず作る | 初級 | training07.ipnb |
 | 142 | vnevを使って仮想環境を作成する | 初級 | training07.ipnb |
 | 143 | pytestでテストコードを書くなぜテストが必要か | 初級 | training07.ipnb |
-| 144 | pytestでテストコードを書 | 初級 | training07.ipnb |
-| 138 | pytestとUnittestどちらがいい？ | 初級 | training07.ipnb |
+| 144 | pytestとテストコードのあれこれ | 初級 | training07.ipnb |
+| 145 | pytestのフィクスチャの一歩 | 初級 | training07.ipnb |
 | 139 | ドキュメントは残す | 初級 | training07.ipnb |
 | 140 | Markdownのすすめ | 初級 | training07.ipnb |
 | 141 | Markdownのすすめ | 初級 | training07.ipnb |
