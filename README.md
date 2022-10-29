@@ -217,17 +217,17 @@ Python基礎100問は、以下の通りです。
 | 143 | pytestでテストコードを書くなぜテストが必要か | 初級 | training07.ipnb |
 | 144 | pytestとテストコードのあれこれ | 初級 | training07.ipnb |
 | 145 | pytestのフィクスチャの一歩 | 初級 | training07.ipnb |
-| 139 | ドキュメントは残す | 初級 | training07.ipnb |
-| 140 | Markdownのすすめ | 初級 | training07.ipnb |
-| 141 | Markdownのすすめ | 初級 | training07.ipnb |
-| 142 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
-| 143 | 型安全: typingモジュール | 初級 | training07.ipnb |
-| 144 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
-| 145 | ファイルパスを扱う | 初級 | training07.ipnb |
-| 146 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
-| 147 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
-| 148 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
-| 149 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
+| 145 | ドキュメントは残す | 初級 | training07.ipnb |
+| 146 | Markdownのすすめ | 初級 | training07.ipnb |
+| 147 | Markdownのすすめ | 初級 | training07.ipnb |
+| 148 | 型安全にコードを書く: なぜ型安全が必要か | 初級 | training07.ipnb |
+| 149 | 型安全: typingモジュール | 初級 | training07.ipnb |
+| 150 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
+| 151 | ファイルパスを扱う | 初級 | training07.ipnb |
+| 152 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
+| 153 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
+| 154 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
+| 155 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
 
 ## 参考文献
 
