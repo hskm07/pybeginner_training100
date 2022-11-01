@@ -221,8 +221,8 @@ Python基礎100問は、以下の通りです。
 | 147 | Markdownでドキュメントを書く1 | 初級 | training07.ipnb |
 | 148 | Markdownでドキュメントを書く2 | 初級 | training07.ipnb |
 | 149 | pythonの型ヒントの書き方: なぜ型が必要か | 初級 | training07.ipnb |
-| 150 | 型安全: typingモジュール | 初級 | training07.ipnb |
-| 151 | 型安全: pydanticモジュール | 初級 | training07.ipnb |
+| 150 | 品質の高いコードを目指して: typingモジュール | 初級 | training07.ipnb |
+| 151 | 品質の高いコードを目指して: pydanticモジュール | 初級 | training07.ipnb |
 | 152 | ファイルパスを扱う | 初級 | training07.ipnb |
 | 153 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
 | 154 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
