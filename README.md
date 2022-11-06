@@ -59,9 +59,9 @@ Python研修が複数立ち上がるので、指標としてレベルテーブ�
 
 > .gitignore記載のファイルは記載しない
 
-## Python基礎100問の内容
+## Python Boot Campの内容
 
-Python基礎100問は、以下の通りです。
+Python問題一覧は、以下の通りです。
 
 | No   | 問題  | レベル | ファイル名 |
 | :--: | :-- | :----: | :------: |
@@ -158,76 +158,76 @@ Python基礎100問は、以下の通りです。
 | 84 | ファイルを読み込む | 初級 | training04.ipnb |
 | 85 | ファイルへ書き込む | 初級 | training04.ipnb |
 | 86 | ファイルをwith構文を使って操作する | 初級 | training04.ipnb |
-| 87 | with構文の理解とベンチマークツールの改良 | 中級 |　training03.ipnb |
+| 87 | with構文の理解とベンチマークツールの改良 | 中級 |　training04.ipnb |
 | 88 | CSVを読み込む | 初級 | training04.ipnb |
 | 89 | CSVを編集して書き込む方法 | 初級 | training04.ipnb |
 | 90 | サイズが大きいCSVファイルを読み取るコツ | 初級 | training04.ipnb |
-| 91 | Excelデータを読み込んでみよう | 初級 | training04.ipnb |
-| 92 | カラムを抽出してみよう | 初級 | training04.ipnb |
-| 93 | 全シートのデータを読み込んでみよう | 初級 | training04.ipnb |
-| 94 | データの値を計算で修正してみよう | 初級 | training04.ipnb |
-| 95 | 必要なカラムだけに絞り込もう | 初級 | training04.ipnb |
-| 96 | 縦持ちのデータを作成しよう | 初級 | training04.ipnb |
-| 97 | 縦持ちのデータを整形しよう | 初級 | training04.ipnb |
-| 98 | 発電実績データを加工しよう | 初級 | training04.ipnb |
-| 99 | 可視化用データを仕上げよう | 初級 | training04.ipnb |
-| 100 | データの分布をヒストグラムで可視化しよう | 初級 | training04.ipnb |
-| 101 | データの分布を箱ひげ図で可視化しよう | 初級 | training04.ipnb |
-| 102 | 最近の発電量を可視化してみよう | 初級 | training04.ipnb |
-| 103 | 電力の時系列変化を可視化してみよう | 初級 | training04.ipnb |
-| 104 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
-| 105 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
-| 106 | 電力の多い都道府県を比較してみよう | 初級 | training04.ipnb |
-| 107 | 都道府県、年月別の電力を可視化してみよう | 初級 | training04.ipnb |
-| 108 | データを整形してExcel形式に出力してみよう | 初級 | training04.ipnb |
-| 109 | シート別にExcelデータに出力してみよう | 初級 | training04.ipnb |
-| 110 | 時系列データの加工を読み込んでみよう | 初級 | training05.ipnb |
-| 111 | 日付の範囲を確認しよう | 初級 | training05.ipnb |
-| 112 | 日毎のデータ件数を確認しよう | 初級 | training05.ipnb |
-| 113 | 日付から曜日を算出しよう | 初級 | training05.ipnb |
-| 114 | 特定範囲のデータに絞り込もう | 初級 | training05.ipnb |
-| 115 | 秒単位のデータを作成しよう | 初級 | training05.ipnb |
-| 116 | 秒単位のデータを整形しよう | 初級 | training05.ipnb |
-| 117 | 秒単位の欠損データを処理しよう | 初級 | training05.ipnb |
-| 118 | 通った人数を可視化しよう | 初級 | training05.ipnb |
-| 119 | 移動平均を計算して可視化しよう | 初級 | training05.ipnb |
-| 120 | モジュールの読み込みとimport文 | 初級 | training06.ipnb |
-| 121 | モジュールとパッケージとライブラリの違い | 初級 | training06.ipnb |
-| 122 | \_\_init\_\_.py 不要説と正しい理解 | 初級 | training06.ipnb |
-| 123 | \_\_name\_\_= \_\_main\_\_ とは | 初級 | training06.ipnb |
-| 124 | Wordを読み込んでみよう | 初級 | training06.ipnb |
-| 125 | PythonでWordを処理してみよう | 初級 | training06.ipnb |
-| 126 | PDFデータを読み込んでみよう | 初級 | training06.ipnb |
-| 127 | PDFデータを結合・分割してみよう | 初級 | training06.ipnb |
-| 128 | 画像データを読み込んでみよう | 初級 | training06.ipnb |
-| 129 | 画像データを処理してみよう | 初級 | training06.ipnb |
-| 130 | Excelからpythonのコードを自動生成する:準備 | 初級 | training06.ipnb |
-| 131 | Excelからpythonのコードを自動生成する:操作 | 初級 | training06.ipnb |
-| 132 | Excelから自動生成したコードを処理してみる | 初級 | training06.ipnb |
-| 133 | Excelから自動生成したコードを統計処理にかけてみる | 初級 | training06.ipnb |
-| 134 | Excelから自動生成したコードを機械学習にかけてみる | 初級 | training06.ipnb |
-| 135 | PEP8：コーディング規約を知る | 初級 | training07.ipnb |
-| 136 | PEP8のlinterを導入する flake8 | 初級 | training07.ipnb |
-| 137 | PEP8のformaterを導入する black | 初級 | training07.ipnb |
-| 138 | pipの使い方 | 初級 | training07.ipnb |
-| 139 | 欲しいパッケージ検索と良し悪しの判断 | 初級 | training07.ipnb |
-| 140 | pipが失敗する原因はプロキシ? | 初級 | training07.ipnb |
-| 141 | Pythonの基礎のキ 仮想環境は必ず作る | 初級 | training07.ipnb |
-| 142 | vnevを使って仮想環境を作成する | 初級 | training07.ipnb |
-| 143 | pytestでテストコードを書くなぜテストが必要か | 初級 | training07.ipnb |
-| 144 | pytestとテストコードのあれこれ | 初級 | training07.ipnb |
-| 145 | pytestのフィクスチャの一歩 | 初級 | training07.ipnb |
-| 146 | ドキュメントは残す | 初級 | training07.ipnb |
-| 147 | Markdownでドキュメントを書く1 | 初級 | training07.ipnb |
-| 148 | Markdownでドキュメントを書く2 | 初級 | training07.ipnb |
-| 149 | pythonの型ヒントの書き方: なぜ型が必要か | 初級 | training07.ipnb |
-| 150 | 品質の高いコードを目指して: typingモジュール | 初級 | training07.ipnb |
-| 151 | 品質の高いコードを目指して: pydanticモジュール | 初級 | training07.ipnb |
-| 152 | ファイルパスを扱う | 初級 | training07.ipnb |
-| 153 | ファイルパスを扱う: osモジュール | 初級 | training07.ipnb |
-| 154 | ファイルパスを扱う: globモジュール | 初級 | training07.ipnb |
-| 155 | ファイルパスを扱う: pathlibモジュール | 初級 | training07.ipnb |
-| 156 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training07.ipnb |
+| 91 | pandasを使う | 初級 | training04.ipnb |
+| 92 | Seriesを生成したい | 初級 | training04.ipnb |
+| 93 | Seriesのデータにアクセスしたい | 初級 | training04.ipnb |
+| 94 | DataFrameを生成したい | 初級 | training04.ipnb |
+| 95 | pandasを使ってCSVを読み書きしたい | 初級 | training04.ipnb |
+| 96 | DataFrameから基礎統計量を求めたい | 初級 | training04.ipnb |
+| 97 | DataFrameから列データを取得したい | 初級 | training04.ipnb |
+| 98 | DataFrameから行データを取得したい | 初級 | training04.ipnb |
+| 99 | DataFrameの行・列を指定してデータを取得したい | 初級 | training04.ipnb |
+| 100 | DataFrameで欠損値を扱いたい | 初級 | training04.ipnb |
+| 101 | DataFrameの値を置換したい | 初級 | training04.ipnb |
+| 102 | DataFrameをフィルタリングしたい | 初級 | training04.ipnb |
+| 103 | DataFrameをGroupByで集計したい | 初級 | training04.ipnb |
+| 104 | DataFrameをソートしたい | 初級 | training04.ipnb |
+| 105 | Excelデータを読み込んでみよう | 初級 | training04.ipnb |
+| 106 | カラムを抽出してみよう | 初級 | training04.ipnb |
+| 107 | 全シートのデータを読み込んでみよう | 初級 | training04.ipnb |
+| 108 | データの値を計算で修正してみよう | 初級 | training04.ipnb |
+| 109 | 必要なカラムだけに絞り込もう | 初級 | training04.ipnb |
+| 110 | 縦持ちのデータを作成しよう | 初級 | training04.ipnb |
+| 111 | 縦持ちのデータを整形しよう | 初級 | training04.ipnb |
+| 112 | 発電実績データを加工しよう | 初級 | training04.ipnb |
+| 113 | 可視化用データを仕上げよう | 初級 | training04.ipnb |
+| 114 | データの分布をヒストグラムで可視化しよう | 初級 | training04.ipnb |
+| 115 | データの分布を箱ひげ図で可視化しよう | 初級 | training04.ipnb |
+| 116 | 最近の発電量を可視化してみよう | 初級 | training04.ipnb |
+| 117 | 電力の時系列変化を可視化してみよう | 初級 | training04.ipnb |
+| 118 | 電力の割合を可視化してみよう | 初級 | training04.ipnb |
+| 119 | 電力の多い都道府県を比較してみよう | 初級 | training04.ipnb |
+| 120 | Excelからpythonのコードを自動生成する:準備 | 初級 | training04.ipnb |
+| 121 | Excelからpythonのコードを自動生成する:Excelを読み込む | 初級 | training04.ipnb |
+| 122 | Excelからpythonのコードを自動生成する:グラフ化 | 初級 | training04.ipnb |
+| 123 | Excelからpythonのコードを自動生成する: 値を変更する | 初級 | training04.ipnb |
+| 124 | Excelからpythonのコードを自動生成する:ピポットテーブルを作成する | 初級 | training04.ipnb |
+| 125 | モジュールの読み込みとimport文 | 初級 | training05.ipnb |
+| 126 | モジュールとパッケージと\_\_init\_\_.pyについて | 初級 | training05.ipnb |
+| 127 | \_\_init\_\_.py 不要説と正しい理解 | 初級 | training05.ipnb |
+| 128 | \_\_name\_\_= \_\_main\_\_ とは | 初級 | training05.ipnb |
+| 129 | Wordを読み込んでみよう | 初級 | training05.ipnb |
+| 130 | PythonでWordを処理してみよう | 初級 | training05.ipnb |
+| 131 | PDFデータを読み込んでみよう | 初級 | training05.ipnb |
+| 132 | PDFデータを結合・分割してみよう | 初級 | training05.ipnb |
+| 133 | 画像データを読み込んでみよう | 初級 | training05.ipnb |
+| 134 | 画像データを処理してみよう | 初級 | training05.ipnb |
+| 135 | PEP8：コーディング規約を知る | 初級 | training06.ipnb |
+| 136 | PEP8のlinterを導入する flake8 | 初級 | training06.ipnb |
+| 137 | PEP8のformaterを導入する black | 初級 | training06.ipnb |
+| 138 | pipの使い方 | 初級 | training06.ipnb |
+| 139 | 欲しいパッケージ検索と良し悪しの判断 | 初級 | training06.ipnb |
+| 140 | pipが失敗する原因はプロキシ? | 初級 | training06.ipnb |
+| 141 | Pythonの基礎のキ 仮想環境は必ず作る | 初級 | training06.ipnb |
+| 142 | vnevを使って仮想環境を作成する | 初級 | training06.ipnb |
+| 143 | pytestでテストコードを書くなぜテストが必要か | 初級 | training06.ipnb |
+| 144 | pytestとテストコードのあれこれ | 初級 | training06.ipnb |
+| 145 | pytestのフィクスチャの一歩 | 初級 | training06.ipnb |
+| 146 | ドキュメントは残す | 初級 | training06.ipnb |
+| 147 | Markdownでドキュメントを書く1 | 初級 | training06.ipnb |
+| 148 | Markdownでドキュメントを書く2 | 初級 | training06.ipnb |
+| 149 | pythonの型ヒントの書き方: なぜ型が必要か | 初級 | training06.ipnb |
+| 150 | 品質の高いコードを目指して: typingモジュール | 初級 | training06.ipnb |
+| 151 | 品質の高いコードを目指して: pydanticモジュール | 初級 | training06.ipnb |
+| 152 | ファイルパスを扱う | 初級 | training06.ipnb |
+| 153 | ファイルパスを扱う: osモジュール | 初級 | training06.ipnb |
+| 154 | ファイルパスを扱う: globモジュール | 初級 | training06.ipnb |
+| 155 | ファイルパスを扱う: pathlibモジュール | 初級 | training06.ipnb |
+| 156 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training06.ipnb |
 
 ## 参考文献
 
