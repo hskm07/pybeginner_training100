@@ -134,8 +134,8 @@ Python問題一覧は、以下の通りです。
 | 60 | デフオルト引数 | 初級 | training03.ipnb | 
 | 61 | デフオルト引数の注意点 | 初級 | training03.ipnb |
 | 62 | 独自オブジェクトを使う | 初級 | training03.ipnb |
-| 63 | クラスの利用例 | 初級 | training03.ipnb |
-| 64 | クラスの利用例 | 初級 | training03.ipnb |
+| 63 | クラスを継承したい | 初級 | training03.ipnb |
+| 64 | クラス変数を使いたい| 初級 | training03.ipnb |
 | 65 | デコレータを扱う準備：高階関数について | 初級 | training03.ipnb |
 | 66 | デコレータを扱う | 中級 | training03.ipnb |
 | 67 | デコレータを引数や戻り値に対応させる | 中級 | training03.ipnb |
