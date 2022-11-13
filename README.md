@@ -135,7 +135,7 @@ Python問題一覧は、以下の通りです。
 | 61 | デフオルト引数の注意点 | 初級 | training03.ipnb |
 | 62 | 独自オブジェクトを使う | 初級 | training03.ipnb |
 | 63 | クラスを継承したい | 初級 | training03.ipnb |
-| 64 | クラス変数を使いたい| 初級 | training03.ipnb |
+| 64 | クラス変数を使う | 初級 | training03.ipnb |
 | 65 | デコレータを扱う準備：高階関数について | 初級 | training03.ipnb |
 | 66 | デコレータを扱う | 中級 | training03.ipnb |
 | 67 | デコレータを引数や戻り値に対応させる | 中級 | training03.ipnb |
@@ -205,7 +205,7 @@ Python問題一覧は、以下の通りです。
 | 131 | PDFデータを読み込んでみよう | 初級 | training05.ipnb |
 | 132 | PDFデータを結合・分割してみよう | 初級 | training05.ipnb |
 | 133 | 画像データを読み込んでみよう | 初級 | training05.ipnb |
-| 134 | 画像データを処理してみよう | 初級 | training05.ipnb |
+| 134 | 画像データを操作してみよう | 初級 | training05.ipnb |
 | 135 | PEP8：コーディング規約を知る | 初級 | training06.ipnb |
 | 136 | PEP8のlinterを導入する flake8 | 初級 | training06.ipnb |
 | 137 | PEP8のformaterを導入する black | 初級 | training06.ipnb |
