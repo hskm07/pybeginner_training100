@@ -65,13 +65,7 @@ Python問題一覧は、以下の通りです。
 
 | No   | 問題  | レベル | ファイル名 |
 | :--: | :-- | :----: | :------: |
-| 01 | Pythonインタプリタの復習 | 初歩 | training00.ipnb |
-| 02 | Jupyter Notebookの使い方 | 初歩 | training00.ipnb |
-| 03 | 問題の進め方と答え合わせについて | 初歩 | training00.ipnb |
-| 04 | 必要なパッケージについてとrequirements.txtについて | 初歩 | training00.ipnb |
-| 05 | 仮想環境の切り分け方とおすすめの環境構築 | 初歩 | training00.ipnb |
-| 06 | Pythonの学習とロードマップ | 初歩 | training00.ipnb |
-| 07 | Python x 仕事のすすめ | 初歩 | training00.ipnb |
+| 0 | 本研修のイントロダクション | 初歩 | training00.ipnb |
 | 1  | 値と変数 | 初歩 | training01.ipnb |
 | 2  | 変数と型 | 初歩 | training01.ipnb |
 | 3  | 引数の数で大きく挙動が変わるtype()関数を知る | 初歩 | training01.ipnb |
@@ -223,11 +217,6 @@ Python問題一覧は、以下の通りです。
 | 149 | pythonの型ヒントの書き方: なぜ型が必要か | 初級 | training06.ipnb |
 | 150 | 品質の高いコードを目指して: typingモジュール | 初級 | training06.ipnb |
 | 151 | 品質の高いコードを目指して: pydanticモジュール | 初級 | training06.ipnb |
-| 152 | ファイルパスを扱う | 初級 | training06.ipnb |
-| 153 | ファイルパスを扱う: osモジュール | 初級 | training06.ipnb |
-| 154 | ファイルパスを扱う: globモジュール | 初級 | training06.ipnb |
-| 155 | ファイルパスを扱う: pathlibモジュール | 初級 | training06.ipnb |
-| 156 | 1つのPCで複数のpythonバージョンを扱う | 初級 | training06.ipnb |
 
 ## 参考文献
 
